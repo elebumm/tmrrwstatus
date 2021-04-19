@@ -8,6 +8,30 @@ sites:
     url: https://barringtonops.ca/
   - name: tmrrw inc
     url: https://tmrrwinc.ca
+  - name: ezrealty.ca
+    url: https://ezrealty.ca
+  - name: Carole Cares
+    url: https://carolecares.com/
+  - name: Corigan WordPress
+    url: https://getcorigan.ca/
+  - name: Downtown Market
+    url: https://downtownmarketsarnia.ca/
+  - name: Sarnia Lambton Chamber
+    url: https://slchamber.ca/
+  - name: Kern Water
+    url: https://kernwater.com/
+  - name: DT Freight
+    url: https://dtfreight.ca
+  - name: GREM
+    url: https://grem.ca
+  - name: Execurooms
+    url: https://execurooms.ca/
+  - name: Jaime Hayes
+    url: https://jaimehayesremax.com/
+  - name: Noelle's Gift
+    url: https://noellesgift.ca/
+  - name: Imperial Theatre
+    url: https://imperialtheatre.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
