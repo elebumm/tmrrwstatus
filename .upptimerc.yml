@@ -6,8 +6,8 @@ repo: tmrrwstatus # Your GitHub repository name
 sites:
   - name: Barrington OPS
     url: https://barringtonops.ca/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: tmrrw inc
+    url: https://tmrrwinc.ca
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
