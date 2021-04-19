@@ -4,8 +4,8 @@ repo: tmrrwstatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Barrington OPS
+    url: https://barringtonops.ca/
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
