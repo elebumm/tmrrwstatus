@@ -250,5 +250,23 @@
     "timeMonth": 687,
     "timeYear": 680,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Medaesthetics",
+    "url": "https://www.medaesthetics.ca",
+    "icon": "https://favicons.githubusercontent.com/www.medaesthetics.ca",
+    "slug": "medaesthetics",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 988,
+    "timeDay": 988,
+    "timeWeek": 988,
+    "timeMonth": 988,
+    "timeYear": 988,
+    "dailyMinutesDown": {}
   }
 ]
