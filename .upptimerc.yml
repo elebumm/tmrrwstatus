@@ -32,6 +32,8 @@ sites:
     url: https://noellesgift.ca/
   - name: Imperial Theatre
     url: https://imperialtheatre.net
+  - name: Medaesthetics
+    url: https://www.medaesthetics.ca
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
