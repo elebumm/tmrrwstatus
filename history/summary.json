@@ -193,7 +193,7 @@
     "time": 1342,
     "timeDay": 1452,
     "timeWeek": 1305,
-    "timeMonth": 1307,
+    "timeMonth": 1300,
     "timeYear": 1342,
     "dailyMinutesDown": {}
   },
@@ -202,7 +202,7 @@
     "url": "https://jaimehayesremax.com/",
     "icon": "https://favicons.githubusercontent.com/jaimehayesremax.com",
     "slug": "jaime-hayes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
