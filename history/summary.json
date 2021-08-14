@@ -76,7 +76,7 @@
     "url": "https://getcorigan.ca/",
     "icon": "https://favicons.githubusercontent.com/getcorigan.ca",
     "slug": "corigan-word-press",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 1344,
     "timeDay": 1869,
-    "timeWeek": 1505,
+    "timeWeek": 1615,
     "timeMonth": 1335,
     "timeYear": 1344,
     "dailyMinutesDown": {}
