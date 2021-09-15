@@ -85,7 +85,7 @@
     "time": 1803,
     "timeDay": 628,
     "timeWeek": 4708,
-    "timeMonth": 3338,
+    "timeMonth": 3397,
     "timeYear": 1803,
     "dailyMinutesDown": {}
   },
@@ -112,7 +112,7 @@
     "url": "https://slchamber.ca/",
     "icon": "https://favicons.githubusercontent.com/slchamber.ca",
     "slug": "sarnia-lambton-chamber",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 555,
     "timeDay": 786,
-    "timeWeek": 640,
+    "timeWeek": 683,
     "timeMonth": 611,
     "timeYear": 555,
     "dailyMinutesDown": {}
@@ -192,8 +192,8 @@
     "uptimeYear": "100.00%",
     "time": 1345,
     "timeDay": 1871,
-    "timeWeek": 1527,
-    "timeMonth": 1334,
+    "timeWeek": 1616,
+    "timeMonth": 1344,
     "timeYear": 1345,
     "dailyMinutesDown": {}
   },
