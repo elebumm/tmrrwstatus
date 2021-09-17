@@ -112,7 +112,7 @@
     "url": "https://slchamber.ca/",
     "icon": "https://favicons.githubusercontent.com/slchamber.ca",
     "slug": "sarnia-lambton-chamber",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -193,7 +193,7 @@
     "time": 1347,
     "timeDay": 1793,
     "timeWeek": 1533,
-    "timeMonth": 1341,
+    "timeMonth": 1348,
     "timeYear": 1347,
     "dailyMinutesDown": {}
   },
