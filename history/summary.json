@@ -31,7 +31,7 @@
     "time": 532,
     "timeDay": 403,
     "timeWeek": 385,
-    "timeMonth": 444,
+    "timeMonth": 438,
     "timeYear": 532,
     "dailyMinutesDown": {}
   },
@@ -191,9 +191,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1355,
-    "timeDay": 1282,
+    "timeDay": 1296,
     "timeWeek": 1329,
-    "timeMonth": 1349,
+    "timeMonth": 1341,
     "timeYear": 1355,
     "dailyMinutesDown": {}
   },
@@ -267,6 +267,24 @@
     "timeWeek": 1175,
     "timeMonth": 1135,
     "timeYear": 1067,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Lambton Bases",
+    "url": "https://lambtonbases.ca",
+    "icon": "https://favicons.githubusercontent.com/lambtonbases.ca",
+    "slug": "lambton-bases",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1458,
+    "timeDay": 1458,
+    "timeWeek": 1458,
+    "timeMonth": 1458,
+    "timeYear": 1458,
     "dailyMinutesDown": {}
   }
 ]
