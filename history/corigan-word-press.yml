@@ -1,7 +1,7 @@
 url: https://getcorigan.ca/
-status: up
-code: 200
-responseTime: 809
-lastUpdated: 2022-01-22T03:28:04.913Z
+status: down
+code: 500
+responseTime: 447
+lastUpdated: 2022-01-22T17:50:38.330Z
 startTime: Mon Apr 19 2021 15:06:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
