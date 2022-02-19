@@ -193,7 +193,7 @@
     "time": 1379,
     "timeDay": 1629,
     "timeWeek": 1688,
-    "timeMonth": 1543,
+    "timeMonth": 1558,
     "timeYear": 1379,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "url": "https://noellesgift.ca/",
     "icon": "https://favicons.githubusercontent.com/noellesgift.ca",
     "slug": "noelle-s-gift",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
