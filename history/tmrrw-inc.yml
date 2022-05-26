@@ -1,7 +1,7 @@
 url: https://tmrrwinc.ca
-status: up
-code: 200
-responseTime: 182
-lastUpdated: 2022-05-26T23:11:56.050Z
+status: down
+code: 500
+responseTime: 259
+lastUpdated: 2022-05-26T23:22:09.861Z
 startTime: Mon Apr 19 2021 02:15:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
