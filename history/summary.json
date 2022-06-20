@@ -194,7 +194,7 @@
     "timeDay": 1696,
     "timeWeek": 1480,
     "timeMonth": 1525,
-    "timeYear": 1427,
+    "timeYear": 1428,
     "dailyMinutesDown": {}
   },
   {
@@ -202,17 +202,17 @@
     "url": "https://jaimehayesremax.com/",
     "icon": "https://favicons.githubusercontent.com/jaimehayesremax.com",
     "slug": "jaime-hayes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 563,
-    "timeWeek": 598,
-    "timeMonth": 673,
-    "timeYear": 798,
+    "time": 803,
+    "timeDay": 333,
+    "timeWeek": 536,
+    "timeMonth": 655,
+    "timeYear": 797,
     "dailyMinutesDown": {}
   },
   {
