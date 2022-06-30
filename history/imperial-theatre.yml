@@ -1,7 +1,7 @@
 url: https://imperialtheatre.net
-status: up
-code: 200
-responseTime: 541
-lastUpdated: 2022-06-29T23:12:41.290Z
+status: down
+code: 500
+responseTime: 450
+lastUpdated: 2022-06-30T18:54:43.280Z
 startTime: Mon Apr 19 2021 15:07:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
