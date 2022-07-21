@@ -31,7 +31,7 @@
     "time": 519,
     "timeDay": 398,
     "timeWeek": 431,
-    "timeMonth": 548,
+    "timeMonth": 544,
     "timeYear": 507,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 472,
     "timeDay": 578,
     "timeWeek": 531,
-    "timeMonth": 426,
+    "timeMonth": 429,
     "timeYear": 470,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1238,
     "timeDay": 973,
     "timeWeek": 1038,
-    "timeMonth": 847,
+    "timeMonth": 852,
     "timeYear": 1242,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1110,
     "timeDay": 524,
     "timeWeek": 660,
-    "timeMonth": 599,
+    "timeMonth": 604,
     "timeYear": 1191,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 726,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 10327,
+    "timeMonth": 0,
     "timeYear": 734,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 1837,
     "timeDay": 773,
     "timeWeek": 513,
-    "timeMonth": 550,
+    "timeMonth": 548,
     "timeYear": 1824,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 452,
     "timeDay": 537,
     "timeWeek": 473,
-    "timeMonth": 387,
+    "timeMonth": 391,
     "timeYear": 452,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 627,
     "timeDay": 674,
     "timeWeek": 671,
-    "timeMonth": 623,
+    "timeMonth": 595,
     "timeYear": 649,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 527,
     "timeDay": 438,
     "timeWeek": 802,
-    "timeMonth": 599,
+    "timeMonth": 612,
     "timeYear": 554,
     "dailyMinutesDown": {}
   },
@@ -184,17 +184,17 @@
     "url": "https://execurooms.ca/",
     "icon": "https://favicons.githubusercontent.com/execurooms.ca",
     "slug": "execurooms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1444,
-    "timeDay": 1420,
-    "timeWeek": 1625,
-    "timeMonth": 1774,
-    "timeYear": 1464,
+    "time": 1443,
+    "timeDay": 1332,
+    "timeWeek": 1541,
+    "timeMonth": 1736,
+    "timeYear": 1463,
     "dailyMinutesDown": {}
   },
   {
@@ -211,7 +211,7 @@
     "time": 794,
     "timeDay": 839,
     "timeWeek": 800,
-    "timeMonth": 673,
+    "timeMonth": 676,
     "timeYear": 791,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 814,
     "timeDay": 1297,
     "timeWeek": 1094,
-    "timeMonth": 952,
+    "timeMonth": 940,
     "timeYear": 859,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 706,
     "timeDay": 783,
     "timeWeek": 740,
-    "timeMonth": 628,
+    "timeMonth": 630,
     "timeYear": 715,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 1122,
     "timeDay": 1792,
     "timeWeek": 1587,
-    "timeMonth": 1299,
+    "timeMonth": 1300,
     "timeYear": 1140,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 420,
     "timeDay": 1979,
     "timeWeek": 664,
-    "timeMonth": 442,
+    "timeMonth": 427,
     "timeYear": 420,
     "dailyMinutesDown": {}
   }
