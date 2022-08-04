@@ -22,7 +22,7 @@
     "url": "https://tmrrwinc.ca",
     "icon": "https://favicons.githubusercontent.com/tmrrwinc.ca",
     "slug": "tmrrw-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -192,9 +192,9 @@
     "uptimeYear": "100.00%",
     "time": 1456,
     "timeDay": 1479,
-    "timeWeek": 1585,
+    "timeWeek": 1624,
     "timeMonth": 1723,
-    "timeYear": 1481,
+    "timeYear": 1482,
     "dailyMinutesDown": {}
   },
   {
