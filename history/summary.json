@@ -158,7 +158,7 @@
     "timeDay": 563,
     "timeWeek": 716,
     "timeMonth": 658,
-    "timeYear": 660,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   },
   {
@@ -184,17 +184,17 @@
     "url": "https://execurooms.ca/",
     "icon": "https://favicons.githubusercontent.com/execurooms.ca",
     "slug": "execurooms",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1462,
-    "timeDay": 72,
-    "timeWeek": 1207,
-    "timeMonth": 1484,
-    "timeYear": 1497,
+    "time": 1463,
+    "timeDay": 1217,
+    "timeWeek": 1264,
+    "timeMonth": 1506,
+    "timeYear": 1498,
     "dailyMinutesDown": {}
   },
   {
