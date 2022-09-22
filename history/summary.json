@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 500,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 471,
     "timeDay": 627,
     "timeWeek": 474,
-    "timeMonth": 488,
+    "timeMonth": 483,
     "timeYear": 465,
     "dailyMinutesDown": {}
   },
@@ -67,8 +67,8 @@
     "time": 1193,
     "timeDay": 993,
     "timeWeek": 901,
-    "timeMonth": 814,
-    "timeYear": 1172,
+    "timeMonth": 813,
+    "timeYear": 1162,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 690,
     "timeWeek": 549,
     "timeMonth": 463,
-    "timeYear": 644,
+    "timeYear": 643,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 731,
+    "timeYear": 729,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 501,
     "timeWeek": 300,
     "timeMonth": 413,
-    "timeYear": 544,
+    "timeYear": 543,
     "dailyMinutesDown": {}
   },
   {
@@ -191,10 +191,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1474,
-    "timeDay": 1957,
+    "timeDay": 3307,
     "timeWeek": 1773,
-    "timeMonth": 1540,
-    "timeYear": 1505,
+    "timeMonth": 1555,
+    "timeYear": 1504,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 1163,
     "timeWeek": 1143,
     "timeMonth": 1062,
-    "timeYear": 933,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 933,
     "timeWeek": 688,
     "timeMonth": 626,
-    "timeYear": 706,
+    "timeYear": 705,
     "dailyMinutesDown": {}
   },
   {
@@ -256,7 +256,7 @@
     "url": "https://www.medaesthetics.ca",
     "icon": "https://favicons.githubusercontent.com/www.medaesthetics.ca",
     "slug": "medaesthetics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
