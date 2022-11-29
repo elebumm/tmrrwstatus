@@ -58,17 +58,17 @@
     "url": "https://carolecares.com/",
     "icon": "https://favicons.githubusercontent.com/carolecares.com",
     "slug": "carole-cares",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1138,
-    "timeDay": 765,
-    "timeWeek": 972,
-    "timeMonth": 885,
-    "timeYear": 1076,
+    "time": 1137,
+    "timeDay": 1166,
+    "timeWeek": 1047,
+    "timeMonth": 906,
+    "timeYear": 1077,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 1400,
     "timeWeek": 1683,
     "timeMonth": 1774,
-    "timeYear": 1557,
+    "timeYear": 1556,
     "dailyMinutesDown": {}
   },
   {
