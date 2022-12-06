@@ -274,17 +274,17 @@
     "url": "https://lambtonbases.ca",
     "icon": "https://favicons.githubusercontent.com/lambtonbases.ca",
     "slug": "lambton-bases",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 203,
-    "timeWeek": 159,
-    "timeMonth": 1053,
-    "timeYear": 728,
+    "time": 788,
+    "timeDay": 10822,
+    "timeWeek": 2819,
+    "timeMonth": 1710,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   }
 ]
