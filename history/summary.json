@@ -86,7 +86,7 @@
     "timeDay": 650,
     "timeWeek": 518,
     "timeMonth": 528,
-    "timeYear": 518,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   },
   {
@@ -256,7 +256,7 @@
     "url": "https://www.medaesthetics.ca",
     "icon": "https://favicons.githubusercontent.com/www.medaesthetics.ca",
     "slug": "medaesthetics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
