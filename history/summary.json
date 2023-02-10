@@ -192,8 +192,8 @@
     "uptimeYear": "100.00%",
     "time": 1555,
     "timeDay": 1764,
-    "timeWeek": 1508,
-    "timeMonth": 1513,
+    "timeWeek": 1567,
+    "timeMonth": 1536,
     "timeYear": 1575,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "timeDay": 749,
     "timeWeek": 1327,
     "timeMonth": 1429,
-    "timeYear": 1138,
+    "timeYear": 1140,
     "dailyMinutesDown": {}
   },
   {
@@ -256,7 +256,7 @@
     "url": "https://www.medaesthetics.ca",
     "icon": "https://favicons.githubusercontent.com/www.medaesthetics.ca",
     "slug": "medaesthetics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
