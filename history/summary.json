@@ -148,17 +148,17 @@
     "url": "https://dtfreight.ca",
     "icon": "https://favicons.githubusercontent.com/dtfreight.ca",
     "slug": "dt-freight",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 225,
-    "timeWeek": 224,
-    "timeMonth": 227,
-    "timeYear": 506,
+    "time": 557,
+    "timeDay": 385,
+    "timeWeek": 264,
+    "timeMonth": 237,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   },
   {
@@ -192,9 +192,9 @@
     "uptimeYear": "100.00%",
     "time": 1563,
     "timeDay": 1815,
-    "timeWeek": 1476,
-    "timeMonth": 1510,
-    "timeYear": 1570,
+    "timeWeek": 1511,
+    "timeMonth": 1527,
+    "timeYear": 1571,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 1322,
     "timeWeek": 1244,
     "timeMonth": 1342,
-    "timeYear": 1140,
+    "timeYear": 1143,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 5958,
     "timeWeek": 1033,
     "timeMonth": 537,
-    "timeYear": 752,
+    "timeYear": 755,
     "dailyMinutesDown": {}
   }
 ]
