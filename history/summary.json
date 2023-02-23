@@ -130,7 +130,7 @@
     "url": "https://kernwater.com/",
     "icon": "https://favicons.githubusercontent.com/kernwater.com",
     "slug": "kern-water",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -191,8 +191,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1563,
-    "timeDay": 1614,
-    "timeWeek": 1509,
+    "timeDay": 1497,
+    "timeWeek": 1489,
     "timeMonth": 1512,
     "timeYear": 1569,
     "dailyMinutesDown": {}
@@ -230,7 +230,7 @@
     "timeDay": 784,
     "timeWeek": 1318,
     "timeMonth": 1323,
-    "timeYear": 1141,
+    "timeYear": 1143,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 143,
     "timeWeek": 1008,
     "timeMonth": 536,
-    "timeYear": 755,
+    "timeYear": 758,
     "dailyMinutesDown": {}
   }
 ]
