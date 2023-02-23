@@ -1,7 +1,7 @@
 url: https://execurooms.ca/
-status: up
-code: 200
-responseTime: 2025
-lastUpdated: 2023-02-22T23:10:14.580Z
+status: down
+code: 503
+responseTime: 342
+lastUpdated: 2023-02-23T04:24:13.117Z
 startTime: Mon Apr 19 2021 15:07:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
